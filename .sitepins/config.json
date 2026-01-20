@@ -1,0 +1,13 @@
+{
+  "content": "archetypes",
+  "media": "exampleSite/assets/images",
+  "public": "exampleSite/static",
+  "code": "layouts",
+  "configs": [
+    "exampleSite/config/_default",
+    "exampleSite/i18n",
+    "exampleSite/hugo.toml"
+  ],
+  "custom-commit": false,
+  "arrangement": []
+}
