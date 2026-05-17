@@ -1,7 +1,17 @@
 {
   "file": "archetypes/default.md",
-  "name": "archetypes",
   "fileType": "md",
   "fmType": "toml",
-  "template": []
+  "template": [
+    {
+      "name": "title",
+      "label": "标题",
+      "type": "string",
+      "value": "",
+      "description": "",
+      "isIgnored": false,
+      "isRequired": false,
+      "defaultValue": ""
+    }
+  ]
 }
